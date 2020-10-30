@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.name = 'redshift_csv_file'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.summary = 'Redshift unloaded CSV file parser'
   s.description = 'redshift_csv_file is a Redshift-specific CSV file parser.  Amazon Redshift generates non-standard CSV format, special handling is required.'
   s.license = 'MIT'
